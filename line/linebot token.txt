@@ -1,0 +1,5 @@
+heroku config:set YOUR_CHANNEL_SECRET="bfdfa36816fe92049bf6a967cb5e1589" --app ifpythonlinebot
+heroku config:set YOUR_CHANNEL_ACCESS_TOKEN="PwMCBCwvhBpSWsD8EDCrbKXYdncLaEJb4fmYl6sBzj8kyiBTALYuPfA8w5EaeFksCnJQR9mliSVrrsyIGBo5+CNuta8j7ERf+bglmzX7Go12KwMOw2NJacrucSXTzzSZffMjW+bNYbts3qKmDDvJhAdB04t89/1O/w1cDnyilFU=" --app ifpythonlinebot
+
+heroku config:set API_KEY="HOxCtbWn4RHwS7E5BXn5zEDofk8SzWlA" --app ifpythonlinebot
+heroku config:set API_SECRET="18MgyXlnZsKhCdi-jQkNsAdpc8WD_wXc" --app ifpythonlinebot

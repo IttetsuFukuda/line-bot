@@ -1,0 +1,2 @@
+heroku config:set YOUR_CHANNEL_SECRET="bfdfa36816fe92049bf6a967cb5e1589" --app ittetsukunnolinebot
+heroku config:set YOUR_CHANNEL_ACCESS_TOKEN="PwMCBCwvhBpSWsD8EDCrbKXYdncLaEJb4fmYl6sBzj8kyiBTALYuPfA8w5EaeFksCnJQR9mliSVrrsyIGBo5+CNuta8j7ERf+bglmzX7Go12KwMOw2NJacrucSXTzzSZffMjW+bNYbts3qKmDDvJhAdB04t89/1O/w1cDnyilFU=" --app ittetsukunnolinebot
